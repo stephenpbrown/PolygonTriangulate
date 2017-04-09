@@ -99,9 +99,3 @@ test-result.json:
         9
     ]
 }
-
-Files included:
-PolyTriangulate.js
-README
-test
-test-result.json
